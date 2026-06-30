@@ -22,3 +22,25 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Environment Variables (Keep secrets safe!)
+.env
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# ML Datasets (Optional: uncomment if you have massive CSVs you don't want to upload)
+# *.csv 
+# *.dat
